@@ -54,7 +54,7 @@ def get_files_from_folder(folder_path):
 
 # ===== MAIN PROGRAM =====
 
-folder_path = "test_files"   # <-- change this if needed
+folder_path = "test_files"
 
 files = get_files_from_folder(folder_path)
 
